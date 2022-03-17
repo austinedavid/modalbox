@@ -1,0 +1,46 @@
+.dialogue::backdrop{
+background: rgba(0, 0, 0, 0.8);
+opacity: .3;
+}
+form{
+    width: 20rem;
+    aspect-ratio: 1;
+    border-radius: 5px;
+    padding: 2px;
+    
+}
+.form-group{
+    margin-bottom: 1rem;
+
+}
+form h2{
+    text-align: center;
+    color: blue;
+}
+.form-group input{
+    height: 2rem;
+    display: block;
+    width: 15rem;
+    
+}
+.submit-btn{
+    margin-top: 2rem;
+    width: 19rem;
+    height: 2rem;
+    color: white;
+    background-color: blue;
+    border-width: 0ch;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+dialog{
+    border-radius: 10px;
+    border-width: 0ch;
+}
